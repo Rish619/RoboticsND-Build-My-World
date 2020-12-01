@@ -12,6 +12,8 @@ Created simulation world in Gazebo as part of my [Udacity Robotics Software Engi
 4. Imported one model from the **Gazebo online library** and implement it in the existing Gazebo world `myWorld`.  
 <p align="center"><img src="images/postbox.png">
 5. Wrote a C++ **World Plugin** `Welcome_to_world.cpp`to interact with `myWorld`. The code displays “Welcome to Rishi’s World!” message as soon as the Gazebo world file `gazebo myWorld` is launched.
+
+
 ## Prerequisites/Dependencies : System Used 
 * Gazebo = 9.0  
 * ROS Melodic(As the bionic compliant implementation of the ROS was required)
